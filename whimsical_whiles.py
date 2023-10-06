@@ -17,7 +17,7 @@ b = 10
 while b > 0:
     print(b)
     b -= 1
-# since it's counting down, it doesn't need to break to a certain number. So I made it so it will print a and take away 1 from it 
+# since it's counting down, it doesn't need to break to a certain number. So it will print a and take away 1 from it 
 """
 3. Factorial Calculation:
 Write a program that calculates the factorial of a given number using a while loop.
