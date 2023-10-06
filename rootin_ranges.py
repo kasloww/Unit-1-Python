@@ -28,6 +28,7 @@ sec = 0
 for d in first:
     sec += d
     print(sec)
+# variable is set to range, second variable is 0 so every value in the first variable will be added together because of d in first
 """
 Excercise 5:
 Uncomment the following code and run it. Then answer the following:
