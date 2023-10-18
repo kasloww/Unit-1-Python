@@ -2,7 +2,7 @@ try:
     age = int(input('Enter your age: '))
 except:
    print("Type out the actual number")
-
+# This is where one of the erros occurs, prints a statement when conditions not met
 try: 
     faveNum = int(input('What is your favorite number: '))
 except:
